@@ -34,6 +34,9 @@ Temprature fetched for entered city..
 ![Screenshot 2025-05-22 145637](https://github.com/user-attachments/assets/1346c6d8-f4f3-4038-bfe6-c79d9c4f7210)
 
 📦 API Integration
+
+
+
 This project uses the OpenWeatherMap API to fetch real-time weather data.
 visit https://openweathermap.org/api for genrate your api key 
 ![Screenshot 2025-05-22 150145](https://github.com/user-attachments/assets/f34c877c-c8f4-4e27-8151-461aacbe2891)
