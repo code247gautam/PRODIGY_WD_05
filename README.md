@@ -29,6 +29,8 @@ OpenWeatherMap API (or your preferred API provider)
 ![Screenshot 2025-05-22 145500](https://github.com/user-attachments/assets/845e3eed-d108-4ee0-ba8a-99728799555d)
 
 Temprature fetched for entered city..
+
+
 ![Screenshot 2025-05-22 145637](https://github.com/user-attachments/assets/1346c6d8-f4f3-4038-bfe6-c79d9c4f7210)
 
 📦 API Integration
