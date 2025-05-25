@@ -1,4 +1,4 @@
-# PRODIGY_WD_04
+# PRODIGY_WD_05
 
 🌤️ Weather App
 A simple and responsive Weather App built using HTML, CSS, and JavaScript, integrated with a weather API to fetch real-time weather data based on city input.
